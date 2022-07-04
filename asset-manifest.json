@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/amirali-bektibayev/social-network/static/css/main.a2d5346c.chunk.css",
+    "main.js": "/amirali-bektibayev/social-network/static/js/main.0e9f08d0.chunk.js",
+    "main.js.map": "/amirali-bektibayev/social-network/static/js/main.0e9f08d0.chunk.js.map",
+    "runtime~main.js": "/amirali-bektibayev/social-network/static/js/runtime~main.74ce90c6.js",
+    "runtime~main.js.map": "/amirali-bektibayev/social-network/static/js/runtime~main.74ce90c6.js.map",
+    "static/js/2.a3b2af31.chunk.js": "/amirali-bektibayev/social-network/static/js/2.a3b2af31.chunk.js",
+    "static/js/2.a3b2af31.chunk.js.map": "/amirali-bektibayev/social-network/static/js/2.a3b2af31.chunk.js.map",
+    "static/css/3.307cb2b4.chunk.css": "/amirali-bektibayev/social-network/static/css/3.307cb2b4.chunk.css",
+    "static/js/3.e740ef1b.chunk.js": "/amirali-bektibayev/social-network/static/js/3.e740ef1b.chunk.js",
+    "static/js/3.e740ef1b.chunk.js.map": "/amirali-bektibayev/social-network/static/js/3.e740ef1b.chunk.js.map",
+    "static/css/4.b6f4611b.chunk.css": "/amirali-bektibayev/social-network/static/css/4.b6f4611b.chunk.css",
+    "static/js/4.b5e676bc.chunk.js": "/amirali-bektibayev/social-network/static/js/4.b5e676bc.chunk.js",
+    "static/js/4.b5e676bc.chunk.js.map": "/amirali-bektibayev/social-network/static/js/4.b5e676bc.chunk.js.map",
+    "index.html": "/amirali-bektibayev/social-network/index.html",
+    "precache-manifest.f47e4838c229766853d0b4a384b47eb7.js": "/amirali-bektibayev/social-network/precache-manifest.f47e4838c229766853d0b4a384b47eb7.js",
+    "service-worker.js": "/amirali-bektibayev/social-network/service-worker.js",
+    "static/css/3.307cb2b4.chunk.css.map": "/amirali-bektibayev/social-network/static/css/3.307cb2b4.chunk.css.map",
+    "static/css/4.b6f4611b.chunk.css.map": "/amirali-bektibayev/social-network/static/css/4.b6f4611b.chunk.css.map",
+    "static/css/main.a2d5346c.chunk.css.map": "/amirali-bektibayev/social-network/static/css/main.a2d5346c.chunk.css.map",
+    "static/media/preloader.svg": "/amirali-bektibayev/social-network/static/media/preloader.6c3daf60.svg",
+    "static/media/user.png": "/amirali-bektibayev/social-network/static/media/user.8b1dbb1f.png"
+  }
+}
