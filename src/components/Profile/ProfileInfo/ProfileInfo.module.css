@@ -1,0 +1,33 @@
+.profile {
+    display: flex;
+    margin-top: 15px;
+}
+
+.profileBlock {
+    position: relative;
+}
+
+.descriptionBlock {
+    padding: 0 10px;
+}
+
+.mainPhoto {
+    max-width: 200px;
+}
+
+.contact {
+    padding-left: 10px;
+}
+
+.logo {
+    display: flex;
+    flex-direction: column;
+}
+
+.buttonWrapper {
+    display: flex;
+    justify-content: end;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
